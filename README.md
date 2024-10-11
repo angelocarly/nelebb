@@ -1,2 +1,2 @@
 # nelebb
-Personal software for controlling EBB boards
+Personal software for controlling EBB boards.
